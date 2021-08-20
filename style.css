@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: #fdfffc;
+}
+
+#Description-Country {
+    color: #3d495c;
+    font-weight: 500;
+}
+
+#item-one {
+    font-size: 140%;
+}
+
+#item-two {
+    font-size: 120%;
+}
+
+#item-three {
+    font-size: 100%;
+}
