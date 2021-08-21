@@ -4,6 +4,9 @@ body {
 }
 
 .Description-Country {
+    top: 680px;
+    position: absolute;
+    left: 600px;
     font-weight: 500;
 }
 
@@ -32,4 +35,14 @@ body {
 div img {
     background-color: rgb(214, 214, 214);
     padding: 10px;
+}
+
+.table {
+    position: absolute;
+    top: 500px;
+    left: 60%;
+}
+
+ul {
+    list-style-type: square;
 }
