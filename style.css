@@ -19,3 +19,21 @@ body {
 #item-three {
     font-size: 100%;
 }
+
+#foto {
+    height: 400px;
+}
+
+.photo-e-name {
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    top: 15%
+}
+
+.my-description {
+    position: absolute;
+    width: 400px;
+    left: 60%;
+    top: 240px;
+}
