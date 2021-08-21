@@ -1,23 +1,14 @@
 body {
     font-family: sans-serif;
-    background-color: #fdfffc;
+    background-color: #000000;
 }
 
-#Description-Country {
-    color: #3d495c;
+.Description-Country {
     font-weight: 500;
 }
 
-#item-one {
-    font-size: 140%;
-}
-
-#item-two {
-    font-size: 120%;
-}
-
-#item-three {
-    font-size: 100%;
+.word {
+    color: white;
 }
 
 #foto {
