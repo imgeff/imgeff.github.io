@@ -37,3 +37,8 @@ body {
     left: 60%;
     top: 240px;
 }
+
+div img {
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+}
