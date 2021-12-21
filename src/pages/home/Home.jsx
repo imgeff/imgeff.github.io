@@ -6,7 +6,7 @@ class Home extends React.Component {
     return (
       <main>
         <section className={ styles.sectionApresentation }>
-        <div className={ styles.apresentation }>
+        <div className={ styles.apresentation } id="apresentation">
           <p>Olá, eu sou
           <h1>GEFFERSON<br/>BATISTA</h1>
           e estudo desenvolvimento web full-stack na Trybe.</p>
@@ -19,7 +19,7 @@ class Home extends React.Component {
         <div className={ styles.helloWorld }>
           <h1>HELLO,<br/>WORLD</h1>
         </div>
-        <div className={ styles.aboutDescription }>
+        <div className={ styles.aboutDescription } id="about">
           <h1>About</h1>
           <p>Description about me</p>
         </div>
