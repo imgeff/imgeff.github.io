@@ -6,40 +6,69 @@ main {
   height: 750px;
 }
 
-section {
-  align-items: 100%;
+.sectionApresentation {
+  align-items: center;
   background: dimgray;
+  border-bottom: 2px solid #464646;
   display: flex;
   justify-content: center;
   height: 100%;
   width: 100%;
 }
 
-section div p, section div h1 {
-  text-align: start;
+.apresentation p, .apresentation h1 {
   margin: 0;
+  text-align: start;
   width: 100%;
 }
 
-section div p {
+.apresentation p {
   font-size: 18px;
 }
 
-section div h1 {
+.apresentation h1 {
   font-size: 48px;
 }
 
-section div {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  color: black;
-  justify-content: center;
-  height: 100%;
+.apresentation, .apresentationPhoto, .helloWorld, .aboutDescription {
   margin: 0, 10%;
   width: 40%;
 }
 
-.helloWorld h1 {
+.apresentationPhoto {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.sectionAbout {
+  align-items: center;
+  background: black;
+  color: #696969;
+  display: flex;
+  justify-content: center;
+  height: 100%;
   width: 100%;
 }
+
+.helloWorld, .aboutDescription {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.helloWorld h1 {
+  color: #272727;
+  font-size: 86px;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.aboutDescription p, .aboutDescription h1 {
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+
