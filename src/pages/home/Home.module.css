@@ -1,0 +1,45 @@
+main {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 750px;
+}
+
+section {
+  align-items: 100%;
+  background: dimgray;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+section div p, section div h1 {
+  text-align: start;
+  margin: 0;
+  width: 100%;
+}
+
+section div p {
+  font-size: 18px;
+}
+
+section div h1 {
+  font-size: 48px;
+}
+
+section div {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  color: black;
+  justify-content: center;
+  height: 100%;
+  margin: 0, 10%;
+  width: 40%;
+}
+
+.helloWorld h1 {
+  width: 100%;
+}
