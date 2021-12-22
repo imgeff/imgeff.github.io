@@ -11,7 +11,7 @@ class Header extends React.Component {
         <nav>
           <a href="#apresentation">Home</a>
           <a href="#about">About</a>
-          <a href="#">Projetos</a>
+          <a href="#projects">Projetos</a>
         </nav>
       </header>
     );
