@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d2ac554.css",
+    "main.js": "/static/js/main.7d91f7cc.js",
+    "static/js/787.69d52779.chunk.js": "/static/js/787.69d52779.chunk.js",
+    "static/media/solar-system.png": "/static/media/solar-system.fee1dd792b7f54bc0665.png",
+    "static/media/trybetunes.png": "/static/media/trybetunes.ce7b843a75549d68d608.png",
+    "static/media/geff.jpeg": "/static/media/geff.e0d1384984cf5e4dde73.jpeg",
+    "static/media/imgeff.png": "/static/media/imgeff.a27cc6f735846be7c0f4.png",
+    "static/media/pixel-art.png": "/static/media/pixel-art.572395904ec8b9fb7cc5.png",
+    "static/media/github.svg": "/static/media/github.7fb291516d725ee4be36798adb76d1d5.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.b19d6485e04632bf23e5e1fd23b31321.svg",
+    "static/media/instagram.svg": "/static/media/instagram.9fbffda920060cec27938012a70d6b62.svg",
+    "static/media/gmail.svg": "/static/media/gmail.77dacf4a8623e911a9f6acd98e4da955.svg",
+    "index.html": "/index.html",
+    "main.4d2ac554.css.map": "/static/css/main.4d2ac554.css.map",
+    "main.7d91f7cc.js.map": "/static/js/main.7d91f7cc.js.map",
+    "787.69d52779.chunk.js.map": "/static/js/787.69d52779.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d2ac554.css",
+    "static/js/main.7d91f7cc.js"
+  ]
+}
