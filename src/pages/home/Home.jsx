@@ -23,8 +23,8 @@ class Home extends React.Component {
           <h1>HELLO,<br/>WORLD</h1>
         </div>
         <div className={ styles.aboutDescription } id="about">
-          <h1>About</h1>
-          <p>Description about me</p>
+          <h1>Sobre mim</h1>
+          <p> Olá, me chamo <strong>Gefferson Batista</strong> e desenvolvo websites em <strong> HTML, CSS, JavaScript e React.</strong><br/><br/> Sempre fui apaixonado pelo universo da <strong>tecnologia</strong>, e quando descobri sobre <strong>desenvolvimento web</strong> tive certeza que era o caminho que deveria seguir.<br/><br/> Estudo desenvolvimento web <strong>full-stack</strong> na <strong>Trybe,</strong> onde já <strong>aprendi</strong> sobre <strong>Unix</strong> e <strong>Bash</strong>, <strong>Git</strong> e <strong>Github, lógica da programação, HTML, CSS,Javascript ES6, testes unitários</strong> e <strong>assíncronos</strong> e atualmente estou aprendendendo a dominar <strong>React.</strong> </p>
         </div>
         </section>
         <section className={ styles.sectionProjects }>
