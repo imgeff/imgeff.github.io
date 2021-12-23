@@ -6,6 +6,10 @@ header {
   justify-content: space-around;
 }
 
+header div img {
+  height: 75px;
+}
+
 header nav a {
   color: rgb(90, 89, 89);
   font-weight: 700;

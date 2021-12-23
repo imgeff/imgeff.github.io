@@ -41,6 +41,15 @@ main {
   justify-content: center;
 }
 
+.apresentationPhoto img {
+  border-style: double;
+  border: 5px solid rgb(0, 0, 0);
+  box-shadow: -4px 15px 25px 11px rgba(0, 0, 0, 0.404);
+  border-radius: 50%;
+  height: 310px;
+  width: 300px;
+}
+
 .sectionAbout {
   align-items: center;
   background: black;
