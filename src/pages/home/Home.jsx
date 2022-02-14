@@ -3,7 +3,6 @@ import styles from './Home.module.css';
 import pixelart from '../../images/projects/pixel-art.png';
 import solarsystem from '../../images/projects/solar-system.png';
 import trybetunes from '../../images/projects/trybetunes.png';
-// import fotoPerfil from '../../images/apresentation/geff.jpeg';
 
 class Home extends React.Component {
   render () {
@@ -16,7 +15,6 @@ class Home extends React.Component {
           e estudo desenvolvimento web full-stack na Trybe.</p>
         </div>
         <div className={ styles.apresentationPhoto }>
-          {/* <img src={ fotoPerfil } alt="foto de perfil" /> */}
         </div>
         </section>
         <section className={ styles.sectionAbout }>
